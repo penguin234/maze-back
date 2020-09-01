@@ -1,0 +1,1 @@
+web: gunicorn maze.wsgi --log-file -
